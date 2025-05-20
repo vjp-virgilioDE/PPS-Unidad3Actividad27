@@ -39,7 +39,6 @@ Entramos por el navegador y subimos nuestra apk
 ![](Imagenes/imagen4.png)
 
 
-Y explortamos el report en pdf
-
+Y explortamos el report en ![pdf](report.pdf)
 
 
